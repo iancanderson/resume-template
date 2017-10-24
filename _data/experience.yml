@@ -1,19 +1,27 @@
 # Jobs
-# Springfield Nuclear Power Plant
-- company: Springfield Nuclear Power Plant
-  position: Safety Inspector
-  duration: Nov, 1980 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>Ate lots of donuts</li><li>Fell asleep rarely</li><li>Left promptly at end of day (sometimes earlier)</li></ul>
+- company: thoughtbot
+  position: Developer
+  duration: Jun, 2014 &mdash; Present
+  summary: 'Developed several products for clients using a variety of technologies, including:	<ul class="resume-item-list"><li>Ruby on Rails</li><li>React Native</li><li>Elixir/Phoenix</li><li>Scala</li><li>JavaScript</li><li>Elm</li></ul>'
 
-# Windmill Crank Operator
-- company: Sir Putt-A-Lot's Merrie Olde Fun Centre
-  position: Safety Inspector
-  duration:  Jun, 1978 &mdash; Sept, 1979
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+- company: Modcloth
+  position: Software Engineer
+  duration: Sep, 2012 &mdash; Jun, 2014
+  summary: Wrote Ruby and JavaScript to maintain and grow a popular e-commerce website.
 
+- company: Academic Software Plus
+  position: Software Engineer
+  duration: Jul, 2011  &mdash; Sep, 2012
+  summary: Wrote Ruby and JavaScript to build an app for admission counselors in health fields.
 
-# Front Desk Attendant
-- company: Simpson Lazer Tag
-  position: Front Desk Attendant
-  duration:   Jun, 1975  &mdash; May, 1978
-  summary: Boy, when Marge first told me she was going to the Police Academy, I thought it would be fun and exciting, you know, like the movie... Spaceballs. But instead, it's been painful and disturbing, like the movie Police Academy.
+- company: Fisher Price
+  position: Senior Audio Engineer
+  duration: Jul, 2010  &mdash; Jul, 2011
+  summary: Recorded/created/edited/mixed sound effects, speech, and music for toys and interactive games / media.
+    Wrote tools in Ruby and C# to streamline the audio production workflow.
+
+- company: Parametric Technology Corporation
+  position: Software Engineer
+  duration: Jun, 2008  &mdash; Jul, 2010
+  summary: Contributed to reliability analysis product using C++/MFC/C#
+
